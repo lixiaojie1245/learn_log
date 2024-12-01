@@ -4,7 +4,7 @@ import mysql.connector
 db = mysql.connector.connect(
     host="localhost",  # MySQL服务器地址
     user="root",   # 用户名
-    password="Asdf@920",  # 密码
+    password="asdfasdf",  # 密码
     database="mydatabase"  # 数据库名称
 )
 
