@@ -11,7 +11,3 @@ git push -u origin main
 git remote add origin git@github.com:lixiaojie1245/learn_log.git
 git branch -M main
 git push -u origin main
-
-## add a repository to log my learn life
-### 241201
-connect a mysql repo in python
