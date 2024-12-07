@@ -1,0 +1,11 @@
+
+# python
+alias py='python3'
+alias ipy='ipython3'
+
+# git
+alias gadd='git add'
+alias ga. ='git add .'
+alias gcomm='git commit -m'
+alias gpush='git push -u origin main'
+
